@@ -22,7 +22,7 @@ Me tornar uma desenvolvedora **Full Stack**, combinando habilidades de front-end
 
 ## 📫 Como me encontrar
 [LinkedIn](https://www.linkedin.com/in/geovannabeatriz-/) 
-[E-mail](contato.geovannabeatriz@gmail.com)
+
 
 ---
 
